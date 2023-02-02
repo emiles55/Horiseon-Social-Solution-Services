@@ -25,3 +25,5 @@ THEN I find a concise, descriptive title.
 
 In addition to making these changes, the CSS file was commented on, and the CSS selectors and properties were consolidated and organized.
 
+![Web capture_30-1-2023_231948_](https://user-images.githubusercontent.com/46115810/216219533-8aa61921-45bd-4870-8d3f-0828fbd9a5c3.jpeg)
+
